@@ -1,24 +1,24 @@
 {
     "data": [
         {
-            "title": "Fullstack Developer",
-            "company": "Freelancing",
-            "tasks": "Building modern web applications with API integration such as landingpages and dashboards",
-            "tags": ["NextJS", "React", "Typescript", "REST", "GraphQL"],
+            "title": "Data Engineer",
+            "company": "@ Dynamic Sustainability Lab",
+            "tasks": "Designed and implemented innovative data solutions to support sustainability and climate-smart initiatives, including a national web portal for the USDA and predictive analytics tools for Syracuse University's sustainability goals. \nBuilt robust ETL pipelines, interactive BI dashboards, time series forecasting(regression), and a dynamic RAG chatbot to drive data accessibility, optimize decision-making, and streamline energy usage analysis. \nCollaborated with stakeholders and SMEs to ensure seamless integration, scalability, and enhanced user engagement. ",
+            "tags": ["Python", "SQL", "Apache Spark", "Databricks","PowerBI", "AWS", "GraphQL" ],
             "year": "2024"
         },
         {
-            "title": "Fontend Engineer",
-            "company": "Apple",
-            "tasks": "Designed and implemented responsive user interfaces for various Apple products, ensuring seamless user experiences across devices.",
-            "tags": ["React", "Typescript", "Redux", "GraphQL"],
+            "title": "Associate Software Developer",
+            "company": "@ Protegrity",
+            "tasks": "Developed and optimized secure, scalable data pipelines, APIs, and cloud-based solutions to support data governance, privacy, and compliance in AWS, Azure, Databricks and Cloudera.\n Leveraged expertise in cloud data platforms, CI/CD pipelines, and database management to deliver secure and reliable applications. \nContributed to 3 different products and collaborated across teams to integrate in-house security products with partner solutions, driving scalability and strategic alignment.",
+            "tags": ["Python", "Java", "Scala", "Apache Spark","AWS","Databricks","Azure","Cloudera"],
             "year": "2022"
         },
         {
-            "title": "Backend Developer",
-            "company": "Microsoft",
-            "tasks": "Developed scalable backend services for Microsoft's cloud platform, enabling efficient data processing and storage for enterprise applications.",
-            "tags": ["Java EE", "Springboot", "REST"],
+            "title": "",
+            "company": "",
+            "tasks": "",
+            "tags": [""],
             "year": "2020"
         }
     ]

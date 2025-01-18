@@ -13,8 +13,17 @@ function Timeline (){
         {index < timelineData.data.length - 1 ? <div className=" w-1 bg-slate-600 m-auto h-full"></div> : <div className="h-16"></div>}
       </div>
       <div className="flex flex-col justify-start h-max mt-5 px-6 text-white">
-        <div className="font-bold">{item.title + " @ "}<span className="text-teal-400 font-bold">{item.company}</span></div>
-        <div>{item.tasks}</div>
+        <div className="font-bold">{item.title} <span className="text-teal-400 font-bold">{item.company}</span></div>
+        <br />
+        <div>
+  <ul className="list-disc pl-5">
+    {item.tasks.split("\n").map((sentence, index) => (
+      <li key={`task-${index}`} className="mb-1">
+        {sentence.trim()}
+      </li>
+    ))}
+  </ul>
+</div>
         <ul className="mt-1 flex flex-wrap" aria-label="Technologies used:">
           {item.tags.map((tag, index) =>
             <li key={"L" + index} className="mr-1.5 mt-2"><Tag title={tag} /></li>

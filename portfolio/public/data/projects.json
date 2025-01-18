@@ -1,25 +1,68 @@
 {
     "data": [
         {
-            "title": "Portfolio Website",
-            "image": "/images/PortfolioWebsite.webp",
+            "title": "Teach AI ",
+            "image": "/images/teachai.png",
             "link": "",
-            "tags": ["Next.js", "Javascript", "Redux", "MUI"],
-            "text": "A portfolio website with responsive design that highlights professional work and services"
+            "tags": [ "TypeScript", "Next.js", "LangChain","OpenAI"],
+            "text": "Developing an AI-driven teacher for a GenAI-powered accelerated learning platform, focused on teaching Data Structures and Algorithms in Python. (Currently under development, open to rebranding :P)"
         },
         {
-            "title": "Trading App",
-            "image": "/images/TradingApp.webp",
-            "link": "",
-            "tags": ["Next.js", "Typescript", "Tailwind CSS"],
-            "text": "A single-page application with responsive design that highlights professional work"
+            "title": "National Website and Data Portal for Climate Smart Commodities",
+            "image": "/images/dslclimatesmart.png",
+            "link": "https://www.dslclimatesmart.org/",
+            "tags": [ "TypeScript", "Next.js", "PowerBI","RDBMS"],
+            "text": "National database and registry for USDA to drive data-driven decisions for stakeholders working with climate-smart commodities, supporting a $3.1B grant for Net Zero Carbon transition."
         },
         {
-            "title": "Photo Website",
-            "image": "/images/PhotoWebsite.webp",
+            "title": "Geoscience Community Analysis Toolkit (Open Source)",
+            "image": "/images/geocat.png",
+            "link": "https://github.com/krishnakashiv/NCAR-Python",
+            "tags": [ "Dask", "Xarray", "SciPy","PyNGL"],
+            "text": "National Center for Atmospheric Research initiative involving development of parallel Python routines for scalable data analysis and visualization of Earth System Science data, tested on HPC clusters at IITM."
+        },
+        {
+            "title": "Reddit Network Sentiment to Predict Cryptocurrency Price ",
+            "image": "/images/reddit.webp",
             "link": "",
-            "tags": ["React.js", "Typescript", "Tailwind CSS", "Redux"],
-            "text": "A website to curate and share photos that capture life's most memorable moments."
+            "tags": ["Spark", "Airflow", "Hugging Face","Kafka"],
+            "text": "ETL workflow and linear regression ML model to analyze social media sentiment and predict cryptocurrency price movements, assessing author-author relationships through graph analysis."
+        },
+        {
+            "title": "Machine Learning for Advanced User Authentication",
+            "image": "/images/userauth.webp",
+            "link": "https://drive.google.com/file/d/1tOqffb10OU-_uTdgPwD3UHH5nXl73gOa/view?usp=sharing",
+            "tags": [ "PyTorch", "TensorFlow", "Ensemble Methods"],
+            "text": "Ensemble techniques including Random Forest, Logistic Regression, and one-vs-all classifiers for user authentication, leveraging smartphone sensor data  for identification and anomaly detection."
+        },
+        
+        {
+            "title": "High Performance Computing Cluster (HPCC)",
+            "image": "/images/HPC.png",
+            "link": "",
+            "tags": [ "CUDA", "PyMPI","OpenMPI","RDMA (RoCE)"],
+            "text": "Developed, optimized and benchmarked an in-house HPC cluster with GPU-enabled processing to accelerate AI/ML workloads and support parallel application testing."
+        },
+        {
+            "title": "Neural Network based Snake AI",
+            "image": "/images/snakeai.png",
+            "link": "",
+            "tags": [ "PyTorch", "PyGame","Neural Networks"],
+            "text": "A reward-based neural network AI which always wins(sometimes). "
+        },
+        {
+            "title": "Personalized Classic Games",
+            "image": "/images/games.png",
+            "link": "",
+            "tags": [ "C++", "SFML2"],
+            "text": "Recreated classic games Snake and Frogger with personalized boundary conditions and custom graphics, for fun and learning purposes."
+        },
+        {
+            "title": "IDPS for SQL Injection Attacks",
+            "image": "/images/sqlidps.png",
+            "link": "https://github.com/krishnakashiv/SQL-Injection-Prevention-System",
+            "tags": [ "PHP", "HTML", "CSS", "JavaScript"],
+            "text": "Security layer for detecting and blocking SQL injection attacks using Signature and Anomaly Based Models with  attacker data retrieval for forensics."
         }
     ]
 }
