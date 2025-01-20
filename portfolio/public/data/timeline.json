@@ -10,14 +10,14 @@
         {
             "title": "Associate Software Developer",
             "company": "@ Protegrity",
-            "tasks": "Developed and optimized secure, scalable data pipelines, APIs, and cloud-based solutions to support data governance, privacy, and compliance in AWS, Azure, Databricks and Cloudera.\n Leveraged expertise in cloud data platforms, CI/CD pipelines, and database management to deliver secure and reliable applications. \nContributed to 3 different products and led a team of 5 cross-functional developers to integrate in-house security products with partner solutions, driving scalability and strategic alignment.",
+            "tasks": "Contributed to 3 different products and led a team of 5 cross-functional (QA, DevOps, Performance) engineers to integrate in-house security products with partner solutions, driving strategic alignment and growth of the company.\nDeveloped and optimized secure, scalable data pipelines, APIs, and cloud-based solutions to support data governance, privacy, and compliance in AWS, Azure, Databricks and Cloudera.\n Leveraged expertise in cloud data platforms, CI/CD pipelines, and database management to deliver secure and reliable applications.",
             "tags": [ "Big Data","Information Security", "Data Governance & Compliance","Public Cloud Infrastructure", "Backend Development"],
             "year": "2022"
         },
         {
-            "title": "",
-            "company": "",
-            "tasks": "",
+            "title": "Vice President",
+            "company": "@ Indian Society of Technical Education (ISTE)",
+            "tasks": "Led a multidisciplinary technical committee of 120+ students, overseeing cross-functional initiatives and managing large-scale events, including 15+ technical workshops and 3 technical festivals, catering to 1,500+ students.\n Enhanced productivity and collaboration across focus groups (Design, R&D, Marketing) to ensure seamless planning and execution of university-wide technical events over three years.\n Previously held positions were Chief Technical Officer (CTO) and Co-Technology Lead.",
             "tags": [""],
             "year": "2020"
         }

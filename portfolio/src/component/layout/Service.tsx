@@ -7,7 +7,8 @@ function Services() {
         <p className="flex text-4xl my-8 justify-center text-white font-bold">Certifications</p>
         <div className="flex flex-col text-center items-center justify-center w-full h-full max-w-full max-h-full overflow-hidden desktop:flex-row desktop:justify-around">
             <Service hl="Databricks Certified Data Engineer Associate" desc="" img="/images/dbengineerass.svg" />
-            <Service hl="Databricks Certified Associate Developer for Apache Spark 3.0" desc="" img="/images/dbdevspark.svg" />
+            <Service hl="Databricks Certified Developer for Apache Spark 3.0" desc="" img="/images/dbdevspark.svg" />
+            <Service hl="Databricks Accredited Lakehouse Fundamentals" desc="" img="/images/dblakehousefund.svg" />
             
             
         </div>
@@ -26,7 +27,7 @@ function Services() {
             
             
         </div>
-        <p className="desktop:text-[40px] mobile:text-[24px] font-bold text-center mb-4">You need me for a project? Reach out to me</p>
+        <p className="desktop:text-[40px] mobile:text-[24px] font-bold text-center mb-4">Need me for a project? Reach out to me</p>
         <div className="desktop:text-lg mobile:text-sm  space-y-2">
     <p><span className="font-bold">Phone:</span> +1 (646)-898-7884</p>
     <p>
@@ -34,7 +35,7 @@ function Services() {
       krishna.kashiv@gmail.com
       </a>
     </p>
-    <p><span className="font-bold">Optionally, just use the button below:</span> </p>
+    <p>Optionally,  click the button below ↓ </p>
     <br />
   </div>
         <ContactBtn title={"Contact Me"} />

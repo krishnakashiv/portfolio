@@ -12,20 +12,20 @@ function Summary(){
   <ul className="list-disc pl-5">
     
     <li className="mb-2 ">
-      Built and benchmarked a GPU-enabled High-Performance Computing (HPC) cluster from scratch to accelerate AI/ML workloads, optimizing performance and memory.
+      Built and benchmarked a GPU-enabled <strong>High-Performance Computing (HPC)</strong> cluster from scratch to accelerate AI/ML workloads, optimizing performance and memory.
     </li>
     <li className="mb-2 ">
-      Contributed to an open-source project for the geoscientific Python community, enhancing tools for Earth System Science(ESS) data analysis and visualization in HPCs.
+      Contributed to an <strong>open-source</strong> project for the geoscientific Python community, enhancing tools for Earth System Science(ESS) data analysis and visualization in HPCs.
     </li>
     <li className="mb-2">
-      Developed a national registry and data portal for USDA to support Net Zero transitions for governments and industries, facilitating sustainability through data-driven solutions.
+      Developed a <strong>national registry and data portal</strong> for USDA to support Net Zero transitions for governments and industries, facilitating sustainability through data-driven solutions.
     </li>
   </ul>
   <br />
 </article>
  
         <article className="desktop:text-xl mobile:text-md" itemScope itemType="https://schema.org/author">
-            <p className="mb-5">Krishna is a sustainability advocate who expresses his creativity through photography and graphic design. He enjoys playing tennis and soccer, while his problem-solving mindset drives him to recreate classic games and design AI models that can beat them.</p>
+            <p className="mb-5">Krishna is a sustainability advocate who expresses his creativity through photography and graphic design. In his free time, you'll find him at the gym, or playing tennis and soccer with his friends.</p>
         </article>
     </>);
 }
