@@ -3,7 +3,7 @@
         {
             "title": "Teach AI ",
             "image": "/images/teachai.png",
-            "link": "",
+            "link": "https://github.com/krishnakashiv/teach-ais",
             "tags": [ "TypeScript", "Next.js", "LangChain","OpenAI"],
             "text": "Developing an AI-driven teacher for a GenAI-powered accelerated learning platform, focused on teaching Data Structures and Algorithms in Python. (Currently under development, open to rebranding :P)"
         },
@@ -19,12 +19,12 @@
             "image": "/images/geocat.png",
             "link": "https://github.com/krishnakashiv/NCAR-Python",
             "tags": [ "Dask", "Xarray", "SciPy","PyNGL"],
-            "text": "National Center for Atmospheric Research initiative involving development of parallel Python routines for scalable data analysis and visualization of Earth System Science data, tested on HPC clusters at IITM."
+            "text": "National Center for Atmospheric Research (NCAR) initiative involving development of parallel Python routines for scalable data analysis and visualization of geospatial datasets, tested on HPC clusters."
         },
         {
             "title": "Reddit Network Sentiment to Predict Cryptocurrency Price ",
             "image": "/images/reddit.webp",
-            "link": "",
+            "link": "https://github.com/krishnakashiv/NCAR-Python",
             "tags": ["Spark", "Airflow", "Hugging Face","Kafka"],
             "text": "ETL workflow and linear regression ML model to analyze social media sentiment and predict cryptocurrency price movements, assessing author-author relationships through graph analysis."
         },
@@ -43,17 +43,11 @@
             "tags": [ "CUDA", "PyMPI","OpenMPI","RDMA (RoCE)"],
             "text": "Developed, optimized and benchmarked an in-house HPC cluster with GPU-enabled processing to accelerate AI/ML workloads and support parallel application testing."
         },
-        {
-            "title": "Neural Network based Snake AI",
-            "image": "/images/snakeai.png",
-            "link": "",
-            "tags": [ "PyTorch", "PyGame","Neural Networks"],
-            "text": "A reward-based neural network AI which always wins(sometimes). "
-        },
+        
         {
             "title": "Personalized Classic Games",
             "image": "/images/games.png",
-            "link": "",
+            "link": "https://github.com/krishnakashiv/My-Games",
             "tags": [ "C++", "SFML2"],
             "text": "Recreated classic games Snake and Frogger with personalized boundary conditions and custom graphics, for fun and learning purposes."
         },

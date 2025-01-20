@@ -3,15 +3,15 @@
         {
             "title": "Data Engineer",
             "company": "@ Dynamic Sustainability Lab",
-            "tasks": "Designed and implemented innovative data solutions to support sustainability and climate-smart initiatives, including a national web portal for the USDA and predictive analytics tools for Syracuse University's sustainability goals. \nBuilt robust ETL pipelines, interactive BI dashboards, time series forecasting(regression), and a dynamic RAG chatbot to drive data accessibility, optimize decision-making, and streamline energy usage analysis. \nCollaborated with stakeholders and SMEs to ensure seamless integration, scalability, and enhanced user engagement. ",
-            "tags": ["Python", "SQL", "Apache Spark", "Databricks","PowerBI", "AWS", "GraphQL" ],
+            "tasks": "Designed and implemented innovative data solutions to support sustainability and climate-smart initiatives, including a national web portal for USDA and predictive analytics tools for Syracuse University's sustainability goals. \nBuilt robust ETL pipelines, interactive BI dashboards, time series forecasting(regression) models, and a dynamic RAG chatbot to drive data accessibility, optimize decision-making, and streamline energy usage analysis. ",
+            "tags": ["Data Warehousing & Analytics", "Business Intelligence", "Geographical Information Systems", "Generative AI", "Frontend Development" ],
             "year": "2024"
         },
         {
             "title": "Associate Software Developer",
             "company": "@ Protegrity",
-            "tasks": "Developed and optimized secure, scalable data pipelines, APIs, and cloud-based solutions to support data governance, privacy, and compliance in AWS, Azure, Databricks and Cloudera.\n Leveraged expertise in cloud data platforms, CI/CD pipelines, and database management to deliver secure and reliable applications. \nContributed to 3 different products and collaborated across teams to integrate in-house security products with partner solutions, driving scalability and strategic alignment.",
-            "tags": ["Python", "Java", "Scala", "Apache Spark","AWS","Databricks","Azure","Cloudera"],
+            "tasks": "Developed and optimized secure, scalable data pipelines, APIs, and cloud-based solutions to support data governance, privacy, and compliance in AWS, Azure, Databricks and Cloudera.\n Leveraged expertise in cloud data platforms, CI/CD pipelines, and database management to deliver secure and reliable applications. \nContributed to 3 different products and led a team of 5 cross-functional developers to integrate in-house security products with partner solutions, driving scalability and strategic alignment.",
+            "tags": [ "Big Data","Information Security", "Data Governance & Compliance","Public Cloud Infrastructure", "Backend Development"],
             "year": "2022"
         },
         {

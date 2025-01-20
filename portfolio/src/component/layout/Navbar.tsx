@@ -12,7 +12,7 @@ function Navbar() {
         <div className="flex justify-around text-2xl w-1/2 items-center">
             <MenuItem title={"About"} />
             <MenuItem title={"Projects"} />
-            <MenuItem title={"Services"} />
+            <MenuItem title={"Skills & Certifications"} />
             <ContactBtn title={"Contact"} />
         </div>
     </div>
