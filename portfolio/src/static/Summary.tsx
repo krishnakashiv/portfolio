@@ -15,10 +15,10 @@ function Summary(){
       Built and benchmarked a GPU-enabled <strong>High-Performance Computing (HPC) </strong>cluster from scratch to accelerate AI/ML workloads, optimizing performance and memory.
     </li>
     <li className="mb-2 ">
-      Contributed to an <strong>open-source project</strong> for the geoscientific Python community, enhancing tools for Earth System Science(ESS) data analysis and visualization in HPCs.
+      Contributed to an <strong>Open-Source</strong> project for the geoscientific Python community, enhancing tools for Earth System Science(ESS) data analysis and visualization in HPCs.
     </li>
     <li className="mb-2">
-      Developed a <strong>national registry and data portal</strong> for USDA to support Net Zero transitions for governments and industries, facilitating sustainability through data-driven solutions.
+      Developed a <strong>National Registry &amp; Data Portal</strong> for USDA to support Net Zero transitions for governments and industries, facilitating sustainability through data-driven solutions.
     </li>
   </ul>
   <br />
