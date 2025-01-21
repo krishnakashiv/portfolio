@@ -5,7 +5,7 @@ function Summary(){
         <article className="desktop:text-xl mobile:text-md" itemScope itemType="https://schema.org/author">
             <p className="mb-5">
             Krishna is a Full-Stack Data Engineer adept at navigating ambiguity, taking ownership of complex projects, and delivering impactful solutions that drive data-driven decision-making. He holds a Master&apos;s degree in Computer Science from Syracuse University and a Bachelor&apos;s degree in Computer Engineering from Mumbai University. 
-< br /><br />Krishna&apos;s educational background has equipped him with a strong foundation in integrating software development with external (cloud/hardware) resources. He approaches his work with empathy, understanding the challenges people face, and is driven by a deep desire to build software and infrastructure that empower others. A few highlights are:<br />
+< br /><br />He approaches his work with empathy, understanding the challenges people face, and is driven by a deep desire to build software and infrastructure that empower others. A few highlights are:<br />
 </p>
         </article>
         <article className="desktop:text-xl mobile:text-md" itemScope itemType="https://schema.org/author">
