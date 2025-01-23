@@ -3,7 +3,7 @@
         {
             "title": "Teach AI ",
             "image": "/images/teachai.png",
-            "link": "https://github.com/krishnakashiv/teach-ais",
+            "link": "https://github.com/krishnakashiv/teach-ai",
             "tags": [ "TypeScript", "Next.js", "LangChain","OpenAI"],
             "text": "Developing an AI-driven teacher for a GenAI-powered accelerated learning platform, focused on teaching Data Structures and Algorithms in Python. (Currently under development, open to rebranding :P)"
         },
