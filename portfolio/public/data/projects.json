@@ -24,7 +24,7 @@
         {
             "title": "Reddit Network Sentiment to Predict Cryptocurrency Price ",
             "image": "/images/reddit.webp",
-            "link": "https://github.com/krishnakashiv/NCAR-Python",
+            "link": "https://github.com/krishnakashiv/Reddit-Network-Analysis-RF-Regression",
             "tags": ["Spark", "Airflow", "Hugging Face","Kafka"],
             "text": "ETL workflow and linear regression ML model to analyze social media sentiment and predict cryptocurrency price movements, assessing author-author relationships through graph analysis."
         },
